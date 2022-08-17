@@ -2,7 +2,7 @@
 Site destinado as pessoas cursando o IF
 - Rafael
 - Luan
--dkada
+- dkada
 
 <!---
 luviniu/luviniu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
